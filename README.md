@@ -1,1 +1,1 @@
-# -Infraestrutura-Como-Codigo-com-Serverless-Framework-na-AWS
+# API Node.js com Serverless Framework em ambiente AWS
