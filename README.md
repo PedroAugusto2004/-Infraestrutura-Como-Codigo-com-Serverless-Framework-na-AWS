@@ -1,1 +1,1 @@
-# API Node.js com Serverless Framework em ambiente AWS
+# Node.js com Serverless Framework em ambiente AWS
